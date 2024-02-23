@@ -1,4 +1,4 @@
-![alt text]([https://raw.githubusercontent.com/salvatoreraccardi/salvatoreraccardi/main/2.png](https://drive.google.com/file/d/13ba_lUjDvNqpaFFhT-NVERUjge7-SNMU/view?usp=sharing))
+![alt text](![IMG_4270](https://github.com/ariefazzmi/ariefazzmi/assets/75991391/75a41acf-7a85-4b6d-aeb7-b3a09f413377))
 
 # ⚡ About Me
 Halo! My name is Azzmi and I'm an Electronics Engineer.
