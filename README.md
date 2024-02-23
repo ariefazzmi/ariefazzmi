@@ -1,5 +1,5 @@
 ### 
-![I am GitHub Readme Generator's creator](https://github.com/ariefazzmi/ariefazzmi/assets/75991391/75a41acf-7a85-4b6d-aeb7-b3a09f413377)
+![photo_2024-02-24_03-04-34](https://github.com/ariefazzmi/ariefazzmi/assets/75991391/24bc2f10-1941-4145-b61a-80613a091bbd)
 
 # ⚡ About Me
 Halo! My name is Azzmi and I'm an Electronics Engineer.
