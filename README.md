@@ -1,4 +1,4 @@
-![alt text](![IMG_4270](https://github.com/ariefazzmi/ariefazzmi/assets/75991391/75a41acf-7a85-4b6d-aeb7-b3a09f413377))
+<p align="left"> <a href="https://twitter.com/batamtrusted" target="blank"><img src="https://img.shields.io/twitter/follow/batamtrusted?logo=twitter&style=for-the-badge" alt="batamtrusted" /></a> </p>
 
 # ⚡ About Me
 Halo! My name is Azzmi and I'm an Electronics Engineer.
