@@ -1,4 +1,4 @@
-<a href="https://twitter.com/batamtrusted" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+(https://github.com/ariefazzmi/ariefazzmi/assets/75991391/75a41acf-7a85-4b6d-aeb7-b3a09f413377)
 
 # ⚡ About Me
 Halo! My name is Azzmi and I'm an Electronics Engineer.
