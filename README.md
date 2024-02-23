@@ -1,4 +1,4 @@
-(https://github.com/ariefazzmi/ariefazzmi/assets/75991391/75a41acf-7a85-4b6d-aeb7-b3a09f413377)
+!(https://github.com/ariefazzmi/ariefazzmi/assets/75991391/75a41acf-7a85-4b6d-aeb7-b3a09f413377)
 
 # ⚡ About Me
 Halo! My name is Azzmi and I'm an Electronics Engineer.
