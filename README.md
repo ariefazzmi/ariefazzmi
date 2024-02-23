@@ -1,16 +1,14 @@
-### Hi there 👋
+![alt text](https://raw.githubusercontent.com/salvatoreraccardi/salvatoreraccardi/main/2.png)
 
-<!--
-**ariefazzmi/ariefazzmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚡ About Me
+Halo! My name is Azzmi and I'm an Electronics Engineer.
+I am also the Founder of Firm Integration (FIRMITON).
 
-Here are some ideas to get you started:
+🔸 We develop innovation product for IoT applications (health tech, green energy, automation, and more).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧪 My Projects
+
+- [OBJEX Link](https://github.com/salvatoreraccardi/OBJEX_LINK): A modular IoT board, for rapid prototyping and developing research. 
+- [OBJEX EHDK](https://github.com/salvatoreraccardi/Energy-Harvesting-DevKit): Energy harvesting DevKit. 
+- [Nordic-PPK2-USB_C-Adapter](https://github.com/salvatoreraccardi/Nordic-PPK2-USB_C-Adapter): For measuring the current drawn by a device/board.
+- [Smart DoorWindow sensor](https://github.com/salvatoreraccardi/Smart-DoorWindow-sensor): Open source Smart door/window sensor. ESP32-C3 based with a custom power latch to obtain a deep sleep mode current of (30-60nA).
