@@ -13,6 +13,6 @@ I am also the Founder of Firm Integration (FIRMITON).
 - [NutriScale](https://github.com/firmiton-code/smart-scaller): a smart scale to assist individuals in measuring the nutritional content of their meals on a per-meal basis. Its parameters include calories, fat, carbohydrates, carbing, and protein.
 - [VisMate](https://github.com/firmiton-code/vismate):  an innovative product designed to support students with disabilities in their learning and navigation processes. 
 
-📋 Feel free to check our other *[Projects Portfolio](https://github.com/firmiton-code)* 
+📋 Feel free to check our other *[Projects Portfolio](https://github.com/firmiton-code)* by clicking the link.
 
 ![photo_2024-02-24_03-04-34](https://github.com/ariefazzmi/ariefazzmi/assets/75991391/24bc2f10-1941-4145-b61a-80613a091bbd)
