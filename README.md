@@ -2,7 +2,7 @@
 
 # ⚡ About Me
 Hello! My name is Azzmi Santoso, a Professional Electronics Engineer & CAD Engineer.
-**
+
 I am also the Founder of Firm Integration (FIRMITON).
 
 🔸 We develop innovation product for IoT applications (health tech, green energy, automation, and more).
