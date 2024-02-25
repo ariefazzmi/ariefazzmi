@@ -9,9 +9,9 @@ I am also the Founder of Firm Integration (FIRMITON).
 
 ## 🧪 Latest Projects 
 
-- [TELSYS](https://github.com/firmiton-code/TELSYS): Ultra-connected Health Telemonitoring Device. 
-- [NutriScale](https://github.com/firmiton-code/smart-scaller): Smart Food Nutrition Scale.
-- [VisMate](https://github.com/firmiton-code/vismate): For helping difable to learn and navigate. 
+- [TELSYS](https://github.com/firmiton-code/TELSYS): a health telemonitoring device capable of measuring vital signs and health parameters to monitor patients' condition in real-time. 
+- [NutriScale](https://github.com/firmiton-code/smart-scaller): a tool developed to assist individuals in measuring the nutritional content of their meals on a per-meal basis. Its parameters include calories, fat, carbohydrates, carbing, and protein.
+- [VisMate](https://github.com/firmiton-code/vismate):  an innovative product designed to support students with disabilities in their learning and navigation processes. 
 
 📋 Feel free to check our other *[Projects Portfolio](https://github.com/firmiton-code)* 
 
