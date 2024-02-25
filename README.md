@@ -1,9 +1,9 @@
 ![photo_2024-02-24_03-06-14](https://github.com/ariefazzmi/ariefazzmi/assets/75991391/0c0aee2a-5ce3-4a56-ab45-c70a967b2527)
 
 # ⚡ About Me
-Hello! My name is Azzmi Santoso, Electronics & CAD Engineer.
+Hello! My name is *Azzmi Santoso*, *Electronics & CAD Engineer*.
 
-I am also the Founder of Firm Integration (FIRMITON).
+I am also the Founder of *Firm Integration (FIRMITON)*.
 
 🔸 We develop innovation product for IoT applications (health tech, green energy, automation, and more).
 
