@@ -16,3 +16,5 @@ I am also the Founder of **Firm Integration (FIRMITON)**.
 📋 Feel free to check our other *[Projects Portfolio](https://github.com/firmiton-code)* by clicking the link.
 
 ![photo_2024-02-24_03-04-34](https://github.com/ariefazzmi/ariefazzmi/assets/75991391/24bc2f10-1941-4145-b61a-80613a091bbd)
+
+![Group 4059](https://github.com/ariefazzmi/ariefazzmi/assets/75991391/d6d5ebbd-71af-49aa-8aea-943f4bc7e750)
